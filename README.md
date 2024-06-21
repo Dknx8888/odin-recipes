@@ -8,4 +8,4 @@ Recipes list:
 
 Phở Bò (Beef Noodle Soup) \
 Bánh Cuốn (Steamed Rice Rolls) \
-Gà Luộc (Boiled Chicken) \
+Gà Luộc (Boiled Chicken)
